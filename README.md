@@ -8,20 +8,30 @@
 
 <h1 align="left">Hi, I'm Binh Nguyen 👋</h1>
 
-**Backend Developer · UIT – VNUHCM**
+**Backend Developer**
+ 
+ <p align="left">
+  <a href="mailto:binhngthanh08@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a><a href="mailto:binhngthanh08@gmail.com">
+    <img src="https://img.shields.io/badge/binhngthanh08%40gmail.com-0D9FEA?style=flat-square" />
+  </a>
+  <a href="https://www.linkedin.com/in/binh-nguyen-1871ba43b/">
+    <img src="https://img.shields.io/badge/LinkedIn-555555?style=flat-square&logo=linkedin&logoColor=white" />
+  </a><a href="https://www.linkedin.com/in/binh-nguyen-1871ba43b/">
+    <img src="https://img.shields.io/badge/Connect-0D9FEA?style=flat-square" />
+  </a>
+</p>
 
-## 👨‍💻 About Me
--  Final-year Software Engineering student at **University of Infomation Technology - VNUHCM**.
+
+## About Me
+- 🎓 Final-year Software Engineering student at **University of Infomation Technology - VNUHCM**.
 - 💼 Professional, responsible, and committed to working.
 - 🤝 Strong teamwork skills with a collaborative and supportive mindset.
 - 🌱 Eager to learn, embrace new challenges, and continuously improve.
-- 📍 Based in **Thu Duc, Ho Chi Minh City, Vietnam.**
 <br>
 
-## 🌐Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/binh-nguyen-1871ba43b/) 
-
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### 🚀 Frameworks & Libraries
 
@@ -82,10 +92,10 @@
 
 <br>
 
-## 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=fbdb&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=fbdb&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fbdb&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+## GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=bifnh-ngth&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=bifnh-ngth&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bifnh-ngth&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=bifnh-ngth&icon=0&color=0)](https://visitcount.itsvg.in)
