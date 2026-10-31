@@ -1,8 +1,21 @@
+<p align="center">
+  <img
+    src="./assets/banner.png"
+    alt="Binh Nguyen - Backend Developer"
+    width="100%"
+  />
+</p>
+
 <h1 align="left">Hi, I'm Binh Nguyen 👋</h1>
 
-**Backend Developer · Software Engineering Student at UIT – VNUHCM**
+**Backend Developer · SE Student at UIT – VNUHCM**
 
-I'm interested in software development and backend engineering, working mostly with Spring Boot, databases and REST APIs. Currently learning more about software architecture and application security, with a focus on building practical, maintainable software.
+## 👨‍💻 About Me
+
+- 🎓 Software Engineering student at UIT – VNUHCM.
+- 💡 I enjoy solving problems and building software that makes a difference.
+- 🔍 Always curious about how systems work behind the scenes.
+- 🌱 Learning, experimenting, and improving one project at a time.
 
 <br>
 
@@ -71,7 +84,7 @@ I'm interested in software development and backend engineering, working mostly w
 
 <br>
 
-# 📊GitHub Stats :
+## 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=fbdb&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=fbdb&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fbdb&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
