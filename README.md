@@ -16,7 +16,6 @@
 - 🤝 Strong teamwork skills with a collaborative and supportive mindset.
 - 🌱 Eager to learn, embrace new challenges, and continuously improve.
 - 📍 Based in **Thu Duc, Ho Chi Minh City, Vietnam.**
-
 <br>
 
 ## 🌐Socials
