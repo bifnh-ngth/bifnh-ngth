@@ -8,17 +8,16 @@
 
 <h1 align="left">Hi, I'm Binh Nguyen 👋</h1>
 
-**Backend Developer · SE Student at UIT – VNUHCM**
+**Backend Developer · UIT – VNUHCM**
 
 ## 👨‍💻 About Me
-
-- 🎓 Software Engineering student at UIT – VNUHCM.
-- 💡 I enjoy solving problems and building software that makes a difference.
-- 🔍 Always curious about how systems work behind the scenes.
-- 🌱 Learning, experimenting, and improving one project at a time.
+-  Final-year Software Engineering student at **University of Infomation Technology - VNUHCM**.
+- 💼 Professional, responsible, and committed to working.
+- 🤝 Strong teamwork skills with a collaborative and supportive mindset.
+- 🌱 Eager to learn, embrace new challenges, and continuously improve.
+- 📍 Based in **Thu Duc, Ho Chi Minh City, Vietnam.**
 
 <br>
-
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/binh-nguyen-1871ba43b/) 
