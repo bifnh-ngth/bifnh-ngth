@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D9FEA,100:512BD4&height=220&section=header&text=Binh%20Nguyen&fontSize=60&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Backend%20Developer&descSize=22&descAlignY=58" alt="Binh Nguyen - Backend Developer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D9FEA,100:512BD4&height=220&section=header&text=Binh%20Nguyen&fontSize=50&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Backend%20Developer&descSize=22&descAlignY=58" alt="Binh Nguyen - Backend Developer" width="100%" />
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
 
 
 ## About Me
-- 🎓 Final-year Software Engineering student at **University of Infomation Technology - VNUHCM**.
+- 🎓 Final-year Software Engineering student at **University of Information Technology - VNUHCM**.
 - 💼 Professional, responsible, and committed to working.
 - 🌱 Eager to learn, embrace new challenges, and continuously improve.
 - 🎯 Looking for: Backend Intern / Fresher positions
@@ -88,10 +88,17 @@
 
 <br>
 
-## GitHub Stats :
+## GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=bifnh-ngth&theme=graywhite&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=bifnh-ngth&theme=graywhite&hide_border=false)<br/>
+![](https://streak-stats.demolab.com/?user=bifnh-ngth&theme=graywhite&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bifnh-ngth&theme=graywhite&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bifnh-ngth/bifnh-ngth/output/github-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/bifnh-ngth/bifnh-ngth/output/github-snake.svg" alt="Contribution snake" />
+  </picture>
+</p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=bifnh-ngth&icon=0&color=0)](https://visitcount.itsvg.in)
