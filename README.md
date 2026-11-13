@@ -1,15 +1,11 @@
 <p align="center">
-  <img
-    src="./assets/banner.png"
-    alt="Binh Nguyen - Backend Developer"
-    width="100%"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D9FEA,100:512BD4&height=220&section=header&text=Binh%20Nguyen&fontSize=60&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Backend%20Developer&descSize=22&descAlignY=58" alt="Binh Nguyen - Backend Developer" width="100%" />
 </p>
 
-<h1 align="left">Hi, I'm Binh Nguyen 👋</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0D9FEA&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Binh+Nguyen+%F0%9F%91%8B;Backend+Developer;Spring+Boot+%7C+.NET+%7C+PostgreSQL" alt="Typing SVG" />
+</p>
 
-**Backend Developer**
- 
  <p align="left">
   <a href="mailto:binhngthanh08@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
@@ -27,8 +23,8 @@
 ## About Me
 - 🎓 Final-year Software Engineering student at **University of Infomation Technology - VNUHCM**.
 - 💼 Professional, responsible, and committed to working.
-- 🤝 Strong teamwork skills with a collaborative and supportive mindset.
 - 🌱 Eager to learn, embrace new challenges, and continuously improve.
+- 🎯 Looking for: Backend Intern / Fresher positions
 <br>
 
 ## Tech Stack
@@ -99,3 +95,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=bifnh-ngth&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D9FEA,100:512BD4&height=120&section=footer" width="100%" />
